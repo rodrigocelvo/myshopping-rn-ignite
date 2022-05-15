@@ -1,4 +1,4 @@
-import styled from 'styled-components/native';
+import styled from "styled-components/native";
 
 export const Title = styled.Text`
   font-size: 14px;
@@ -6,4 +6,3 @@ export const Title = styled.Text`
   color: ${({ theme }) => theme.COLORS.BLACK};
   margin-left: 7px;
 `;
-
